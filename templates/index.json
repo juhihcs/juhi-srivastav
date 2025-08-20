@@ -32,18 +32,36 @@
             "button_link": "shopify://collections",
             "button_style": "primary"
           }
+        },
+        "button_AXikWB": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections",
+            "button_style": "primary"
+          }
+        },
+        "button_eKhBki": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "",
+            "button_style": "primary"
+          }
         }
       },
       "block_order": [
         "heading_pEjRND",
         "text_t7qYeW",
-        "button_B38p7J"
+        "button_B38p7J",
+        "button_AXikWB",
+        "button_eKhBki"
       ],
       "name": "Custom Hero Section",
       "settings": {
         "top_image": "shopify://shop_images/Frame.svg",
         "bottom_image": "shopify://shop_images/Frame.svg",
-        "color_scheme": "scheme-7e7bb6fc-7c1c-4f33-9ffb-dd986e698c5d",
+        "color_scheme": "scheme-1",
         "toggle_overlay": false,
         "overlay_color": "#00000026"
       }
